@@ -1,2 +1,2 @@
 # FedClip
-Code for "Towards Time-efficient Watermarking for Federated Learning Model Copyright Protection"
+Code will be released after the paper is accepted
